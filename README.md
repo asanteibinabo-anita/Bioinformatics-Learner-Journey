@@ -46,5 +46,50 @@ I am an aspiring Bioinformatician with a background in Plant Science & Biotechno
 - Location: Port Harcourt, Nigeria
 
 ---
+# Bioinformatics Learner Journey
 
+## Overview
+
+This repository documents my step-by-step learning journey as I transition from Plant Science & Biotechnology into Bioinformatics and Computational Biology.
+
+It captures my progress in Python programming, data analysis, and beginner bioinformatics projects.
+
+## Purpose
+
+The goal of this repository is not only to store code, but to show my learning process, consistency, and growth over time.
+
+## What You Will Find Here
+
+- Weekly learning notes
+- Python practice exercises
+- Beginner bioinformatics projects
+- Reflections on what I learn
+- Links to completed projects
+
+## Current Progress
+
+### Week 1–2: Python & Data Analysis Basics
+- Learned Pandas for data handling
+- Created structured datasets (customers, products, sales)
+
+### Week 3: Introduction to Bioinformatics
+- DNA sequence analysis using Python
+- Calculated nucleotide composition and GC content
+- Created first biological data visualization
+
+## Projects
+
+- DNA Sequence Analysis Project  
+  (See repository: dna-sequence-analysis-python)
+
+## Learning Goals
+
+- Strengthen Python for biological data analysis
+- Work with real genomic datasets
+- Build bioinformatics project portfolio
+- Prepare for MSc applications in Bioinformatics
+
+## Reflection
+
+This journey represents my consistent effort to build technical skills in computational biology from a non-computational background. I am focused on improving step by step through practice and real projects.
 ⭐ *Always learning. Always improving.*
